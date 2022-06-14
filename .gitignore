@@ -37,4 +37,4 @@ gradle.properties
 plugins-prod
 sandbox
 /plugins/nf-sqldb/src/dist/lib/AthenaJDBC42_2.0.25.1001.jar
-filt.sif
+*.sif
